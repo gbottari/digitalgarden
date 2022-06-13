@@ -38,7 +38,7 @@ You can also use named imports (specifying a path to an object) so that you only
 Since [[NodeJS|NodeJS]] uses CommonJS, the old way (before ES6) uses a different syntax and has different behavior [^2].
 
 ### Exporting
-```node
+```js
 function hello() {
 	return 'hello';
 }
@@ -51,7 +51,7 @@ module.exports = {hello, bye};
 ```
 
 ### Importing
-```node
+```js
 const hello = require('./greetings');
 greetings.hello();
 greetings.bye();
