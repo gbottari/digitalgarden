@@ -8,10 +8,8 @@
 
 Welcome to my digital garden. This space will be used to share some notes I've written for myself that might be useful to others.
 
-```ad-warning
-title: About broken links
-Note that links to some notes might have links that don't work. This is intentional because I'm sharing just a subset of my notes publicly.
-```
+> [!WARNING] About broken links
+> Note that links to some notes might have links that don't work. This is intentional because I'm sharing just a subset of my notes publicly.
 
 ## Where to start?
 I have some notes about software dev stuff like [[05 notes/Cookies|Cookies]] and [[05 notes/Javascript Modules|Javascript Modules]]. Also technical, but not about software:  [[05 notes/CRISPR|CRISPR]].
