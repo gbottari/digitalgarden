@@ -12,7 +12,7 @@ Welcome to my digital garden. This space will be used to share some notes I've w
 > Note that links to some notes might have links that don't work. This is intentional because I'm sharing just a subset of my notes publicly.
 
 ## Where to start?
-I have some notes about software dev stuff like [[05 notes/Cookies|Cookies]] and [[05 notes/Javascript Modules|Javascript Modules]]. Also technical, but not about software:  [[05 notes/CRISPR|CRISPR]].
+I have some notes about software dev stuff like [[05 notes/Cookies|Cookies]], [[05 notes/Javascript Modules|Javascript Modules]] and [[05 notes/Single Responsibility Principle|Single Responsibility Principle]]. Also technical, but not about software:  [[05 notes/CRISPR|CRISPR]].
 
 Here are a few about innovation and business:
 - [[05 notes/Technology Adoption Lifecycle|Technology Adoption Lifecycle]]
