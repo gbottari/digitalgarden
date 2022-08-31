@@ -13,7 +13,7 @@ A package and virtual-environment manager for Python.
 ## How to properly setup any env
 ```
 pyenv local 3.9.1
-poetry use $(pyenv which python)
+poetry env use $(pyenv which python)
 poetry add pkg
 poetry install
 ```
